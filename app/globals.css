@@ -5,6 +5,9 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+.cl-internal-1hp5nqm, .cl-internal-1dauvpw, .mNFY9 {
+  display: none;
+}
 
 @layer base {
   :root {
