@@ -88,7 +88,7 @@ function BasketPage() {
               </div>
 
               <div className="flex-grow">
-                <h2 className="text-xl font-semibold text-gray-800 truncate w-[500]">
+                <h2 className="text-xl font-semibold text-gray-800 truncate min-w-0">
                   {item.product.name}
                 </h2>
                 <p>
