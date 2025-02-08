@@ -91,7 +91,7 @@ function BasketPage() {
                 <h2 className="text-xl font-semibold text-gray-800 absolute">
                   {item.product.name}
                 </h2>
-                <p>
+                <p className="absolute bg-gray-200 top-32">
                   Price: $
                   {((item.product.price ?? 0) * item.quantity).toFixed(2)}
                 </p>
